@@ -1,0 +1,35 @@
+Basic JavaScript Concepts
+Variables and Data Types: Understanding of var, let, const, and different data types (string, number, boolean, object, array, etc.).
+Functions: Declaration, expression, arrow functions, and higher-order functions.
+Control Structures: if, else, switch, loops (for, while, do-while).
+Scope and Closures: Understanding of function scope, block scope, and closures.
+Error Handling: Using try, catch, finally, and custom error handling.
+
+String Manipulation
+Reverse a String: Write a function to reverse a given string.
+Palindrome Check: Check if a given string is a palindrome.
+Remove Characters: Remove the first and last character of a string.
+Count Vowels and Consonants: Count the number of vowels and consonants in a string.
+
+Array Manipulation
+Sum of Elements: Calculate the sum of all elements in an array.
+Find Maximum/Minimum: Find the maximum or minimum value in an array.
+Filter Even/Odd Numbers: Filter out even or odd numbers from an array.
+Sort an Array: Sort an array in ascending or descending order.
+Remove Duplicates: Remove duplicate elements from an array.
+
+Object Manipulation
+Merge Objects: Merge two or more objects into one.
+Deep Clone: Create a deep clone of an object.
+Access Nested Properties: Safely access nested properties in an object.
+
+Algorithms
+Fibonacci Sequence: Generate the Fibonacci sequence up to a given number.
+Factorial: Calculate the factorial of a given number.
+Prime Numbers: Check if a number is prime or generate a list of prime numbers.
+Binary Search: Implement binary search on a sorted array.
+
+Data Structures
+Stack Implementation: Implement a stack with push, pop, and peek methods.
+Queue Implementation: Implement a queue with enqueue, dequeue, and front methods.
+Linked List: Basic operations on a singly or doubly linked list.

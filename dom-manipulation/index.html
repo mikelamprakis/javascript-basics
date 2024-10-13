@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Manipulation Katas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>DOM Manipulation Katas</h1>
+    <div class="kata-container">
+        <button onclick="changeTextContent()">Change Text Content</button>
+        <button onclick="changeStyle()">Change Style</button>
+        <button onclick="addNewElement()">Add New Element</button>
+        <button onclick="removeElement()">Remove Element</button>
+        <button onclick="toggleClass()">Toggle Class</button>
+        <button onclick="addEventListenerToButton()">Add Event Listener</button>
+        <button onclick="getInputValue()">Get Input Value</button>
+        <button onclick="setInputValue()">Set Input Value</button>
+        <button onclick="createAndAppendElements()">Create and Append Elements</button>
+        <button onclick="cloneElement()">Clone Element</button>
+        <button onclick="changeAttribute()">Change Attribute</button>
+    </div>
+    <div id="output"></div>
+
+    <!-- Elements for manipulation -->
+    <p id="myParagraph">Hello, world!</p>
+    <div id="myDiv" class="hidden">This is a div</div>
+    <ul id="myList"></ul>
+    <button id="myButton">Click me</button>
+    <input type="text" id="myInput" value="Hello">
+    <img id="myImage" src="old-image.jpg">
+
+    <script src="scripts.js"></script>
+</body>
+</html>
